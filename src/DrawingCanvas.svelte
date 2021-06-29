@@ -82,11 +82,11 @@
   </div>
   <svg class="w-full h-full pointer-events-none">
     <path
-      stroke-width="5"
+      stroke-width="3"
       stroke-linejoin="round"
       stroke-linecap="round"
       d={path}
-      stroke="black"
+      stroke="#4169e1"
       fill="none" />
   </svg>
 </div>
