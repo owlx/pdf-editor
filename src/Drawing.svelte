@@ -118,10 +118,10 @@
   </div>
   <svg bind:this={svg} width="100%" height="100%">
     <path
-      stroke-width="5"
+      stroke-width="3"
       stroke-linejoin="round"
       stroke-linecap="round"
-      stroke="black"
+      stroke="#4169e1"
       fill="none"
       d={path} />
   </svg>
